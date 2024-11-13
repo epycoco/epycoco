@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @epycoco
-- 👀 I’m interested in Bioinformatic Tool
+- 👀 I’m interested in Bioinformatic Tools
 - 🌱 I’m currently learning Cuda Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andrea.epicoco2706@gmail.com
 
 
